@@ -24,7 +24,7 @@ A full-stack attendance tracking web app built for college students.
 
 Stack: React, Node.js, PostgreSQL (Supabase), deployed on Vercel and Render
 
-https://github.com/Zafin-Mohamed/attendease## 
+https://github.com/Zafin-Mohamed/attendease 
 <!--
 **Zafin-Mohamed/Zafin-Mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
